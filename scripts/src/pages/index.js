@@ -33,13 +33,9 @@ export default function Home() {
       <section id="about" className="hero hero-row is-medium" ref={heroRef}>
         <div className="hero-body">
           <div className="container content">
-            <h1 className="title">Welcome to KnowGraphs</h1>
+            <h1 className="title">Welcome to RAKI</h1>
             <p className="hero-text">
-              The overall objective of KnowGraphs is to scale KGs to be
-              accessible to a wide audience of users across multiple domains
-              including (1) companies (in domains including Industry 4.0,
-              bio-medicine, finance, law) of all sizes and even (2) end users
-              (e.g., through personal assistants and web search).
+            RAKI kombiniert erstmalig induktives logisches Programmieren mit Reinforcement Learning um skalierbare nachvollziehbare Machine Learning-Verfahren mit „humans in the loop“ zu entwickeln.
             </p>
             <button
               onClick={() => navigate('/news/')}
@@ -89,14 +85,14 @@ export default function Home() {
           <div className="container content">
             <div className="section-header">
               <h1 className="title">Latest tweets</h1>
-              <a className="link-more" href="https://twitter.com/knowgraphs">
+              <a className="link-more" href="https://twitter.com/raki-project">
                 Follow →
               </a>
             </div>
 
             <TwitterTimelineEmbed
               sourceType="profile"
-              screenName="KnowGraphs"
+              screenName="raki-project"
               noFooter
               noHeader
               noScrollbar
