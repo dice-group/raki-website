@@ -1,8 +1,8 @@
-# KnowGraphs Website
+# RAKI Website
 
-[![Actions Status](https://github.com/dice-group/knowgraphs-website/workflows/Build/badge.svg)](https://github.com/dice-group/knowgraphs-website/actions)
+[![Actions Status](https://github.com/dice-group/raki-website/workflows/Build/badge.svg)](https://github.com/dice-group/raki-website/actions)
 
-This is a repo containing KnowGraphs website.
+This is a repo containing RAKI website.
 
 ## Structure
 
