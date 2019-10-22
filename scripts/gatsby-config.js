@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `KnowGraphs`,
-    description: `The overall objective of KnowGraphs is to scale KGs to be accessible to a wide audience of users across multiple domains including companies of all sizes and even end users.`,
-    author: `@KnowGraphs`,
+    title: `RAKI`,
+    description: `TODO`,
+    author: `@RAKI`,
   },
   plugins: [
     // RDF processing
