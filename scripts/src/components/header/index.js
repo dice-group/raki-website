@@ -18,7 +18,7 @@ const Header = () => {
       <div className="navbar-brand">
         <Link to="/" className="navbar-item no-opacity">
           <KG className="dice-nav-logo" />
-          KnowGraphs
+          RAKI
         </Link>
 
         <a
