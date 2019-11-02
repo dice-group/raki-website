@@ -8,7 +8,7 @@ const goBack = e => {
 export default function BackButton() {
   return (
     <a href="#" onClick={goBack}>
-      ← Go back
+      ← Zurück
     </a>
   );
 }

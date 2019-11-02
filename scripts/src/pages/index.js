@@ -16,11 +16,11 @@ export default function Home() {
   const contactRef = React.createRef();
 
   const menu = [
-    { target: heroRef, title: 'About', url: 'about' },
-    { target: fundedRef, title: 'Funded by', url: 'funded' },
-    { target: tweetsRef, title: 'Latest tweets', url: 'tweets' },
-    { target: newsRef, title: 'News', url: 'news' },
-    { target: contactRef, title: 'Contact us', url: 'contact' },
+    { target: heroRef, title: 'Über uns', url: 'about' },
+    { target: fundedRef, title: 'Gefördert durch', url: 'funded' },
+    { target: tweetsRef, title: 'Tweets', url: 'tweets' },
+    { target: newsRef, title: 'Neuigkeiten', url: 'news' },
+    { target: contactRef, title: 'Kontakt us', url: 'contact' },
   ];
 
   return (
@@ -33,7 +33,7 @@ export default function Home() {
       <section id="about" className="hero hero-row is-medium" ref={heroRef}>
         <div className="hero-body">
           <div className="container content">
-            <h1 className="title">Welcome to RAKI</h1>
+            <h1 className="title">Willkommen bei RAKI</h1>
             <p className="hero-text">
               RAKI kombiniert erstmalig induktives logisches Programmieren mit
               Reinforcement Learning um skalierbare nachvollziehbare Machine
@@ -43,7 +43,7 @@ export default function Home() {
               onClick={() => navigate('/news/')}
               className="button is-link action-button"
             >
-              Learn more
+              Neuigkeiten
             </button>
           </div>
         </div>
@@ -56,24 +56,7 @@ export default function Home() {
       >
         <div className="hero-body">
           <div className="container content">
-            <div className="section-header">
-              <h1 className="title">Research areas</h1>
-            </div>
 
-            <div className="research-areas-list">
-              <div className="research-area-item research-area-rep">
-                Representation
-              </div>
-              <div className="research-area-item research-area-cnm">
-                Construction <br /> and <br /> Maintenance
-              </div>
-              <div className="research-area-item research-area-op">
-                Operation
-              </div>
-              <div className="research-area-item research-area-expl">
-                Exploitation
-              </div>
-            </div>
           </div>
         </div>
       </section>
@@ -86,9 +69,9 @@ export default function Home() {
         <div className="hero-body">
           <div className="container content">
             <div className="section-header">
-              <h1 className="title">Latest tweets</h1>
+              <h1 className="title">Tweets</h1>
               <a className="link-more" href="https://twitter.com/raki-project">
-                Follow →
+                RAKI folgen →
               </a>
             </div>
 
@@ -113,9 +96,9 @@ export default function Home() {
         <div className="hero-body">
           <div className="container content">
             <div className="section-header">
-              <h1 className="title">News</h1>
+              <h1 className="title">Neuigkeiten</h1>
               <Link className="link-more" to="/news/">
-                More news →
+                Weitere Neuigkeiten →
               </Link>
             </div>
 
@@ -132,9 +115,9 @@ export default function Home() {
         <div className="hero-body">
           <div className="container contact-section">
             <div className="section-header">
-              <h1 className="title">Contact us</h1>
+              <h1 className="title">Kontakt</h1>
               <Link className="link-more" to="/contact/">
-                More contact information →
+                Kontaktinformation →
               </Link>
             </div>
 

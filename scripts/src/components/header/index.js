@@ -3,11 +3,11 @@ import React, { useState } from 'react';
 import KG from '../svgs/knowgraphs-logo.inline.svg';
 
 const links = [
-  { url: '/', text: 'Home' },
+  { url: '/', text: 'RAKI' },
   { url: '/team/', text: 'Team' },
-  { url: '/partners/', text: 'Partners' },
-  { url: '/publications/', text: 'Publications' },
-  { url: '/deliverables/', text: 'Deliverables' },
+  { url: '/partners/', text: 'Partner' },
+  { url: '/publications/', text: 'Publikationen' },
+  { url: '/deliverables/', text: 'Arbeitsergebnisse' },
 ];
 
 const Header = () => {
@@ -56,7 +56,7 @@ const Header = () => {
         <div className="navbar-end">
           <div className="navbar-item no-opacity">
             <Link to="/contact/" className="button">
-              Contact us
+              Kontakt
             </Link>
           </div>
         </div>
