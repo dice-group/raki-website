@@ -1,7 +1,7 @@
-@prefix kgpartner: <https://dice-research.org/partner/> .
+@prefix rakipartner: <https://dice-research.org/partner/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-kgpartner:LeipzigUniversity a schema:Partner ;
+rakipartner:LeipzigUniversity a schema:Partner ;
   schema:name "Leipzig University" ;
   schema:country "DE" ;
   schema:url <https://www.uni-leipzig.de/> ;

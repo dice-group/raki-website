@@ -1,7 +1,7 @@
-@prefix kgpartner: <https://dice-research.org/partner/> .
+@prefix rakipartner: <https://dice-research.org/partner/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-kgpartner:AI4BD a schema:Partner ;
+rakipartner:AI4BD a schema:Partner ;
   schema:name "AI4BD GmbH" ;
   schema:country "CH" ;
   schema:url <https://ai4bd.com/> ;

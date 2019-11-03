@@ -1,7 +1,7 @@
-@prefix kgpartner: <https://dice-research.org/partner/> .
+@prefix rakipartner: <https://dice-research.org/partner/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-kgpartner:PaderbornUniversity a schema:Partner ;
+rakipartner:PaderbornUniversity a schema:Partner ;
   schema:name "Paderborn University" ;
   schema:country "DE" ;
   schema:url <https://www.uni-paderborn.de/> ;
