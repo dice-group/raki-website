@@ -14,10 +14,10 @@ export default function Partners({
 
   return (
     <Layout>
-      <SEO title="Partner" />
+      <SEO title="Partner im RAKI Projekt" />
 
       <div className="container content">
-        <h1>Partner</h1>
+        <h1>Partner im RAKI Projekt</h1>
 
         {Object.keys(partnersByType)
           .sort((a, b) => b.localeCompare(a))
