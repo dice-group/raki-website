@@ -1,0 +1,6 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:MemberAI4BD a schema:Role ;
+  schema:priority 2;
+	schema:name "AI4BD GmbH"@de .

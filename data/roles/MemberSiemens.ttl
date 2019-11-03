@@ -1,0 +1,6 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:MemberSiemens a schema:Role ;
+  schema:priority 2;
+	schema:name "Siemens AG"@de .
