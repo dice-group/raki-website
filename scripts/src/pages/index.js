@@ -33,7 +33,10 @@ export default function Home() {
       <section id="about" className="hero hero-row is-medium" ref={heroRef}>
         <div className="hero-body">
           <div className="container content">
-              <h1 className="title">RAKI - Rapide Erklärbare Künstliche Intelligenz für Industrieanlagen</h1>
+            <h1 className="title">
+              RAKI - Rapide Erklärbare Künstliche Intelligenz für
+              Industrieanlagen
+            </h1>
             <h3 className="title">Willkommen bei RAKI</h3>
 
             <p className="hero-text">
@@ -43,25 +46,27 @@ export default function Home() {
             </p>
 
             <p className="hero-text">
-              Im Fokus des Projekts steht die skalierbare KI-getriebene Optimierung der Konfiguration und des Betriebs von
+              Im Fokus des Projekts steht die skalierbare KI-getriebene
+              Optimierung der Konfiguration und des Betriebs von
               Industrieanlagen sowie der notwendigen Produktionslogistik.
-
+            </p>
+            <p className="hero-text">
               Verteilte Implementierungen ermöglichen die Verarbeitung großer
-              Datenmengen für die automatische Generierung von Erklärungen.
-              Die Entwicklungs- und Anwendungspartner AI4BD und Siemens planen
-              die Verwendung von wesentlichen Teilen des RAKI-Frameworks nach
-              der Produktisierung in ihre Plattformen CBR und Mindsphere.
-              Das Ergebnis von RAKI bildet die Grundlage für neuartige
-              Datenprodukte wie KI-getriebene interaktive
-              Konfigurationssoftware für Industrieanlagen, die eine skalierbare
-              Entwicklung von Smart Services in der industriellen Produktion
-              ermöglicht.
+              Datenmengen für die automatische Generierung von Erklärungen. Die
+              Entwicklungs- und Anwendungspartner AI4BD und Siemens planen die
+              Verwendung von wesentlichen Teilen des RAKI-Frameworks nach der
+              Produktisierung in ihre Plattformen CBR und Mindsphere. Das
+              Ergebnis von RAKI bildet die Grundlage für neuartige Datenprodukte
+              wie KI-getriebene interaktive Konfigurationssoftware für
+              Industrieanlagen, die eine skalierbare Entwicklung von Smart
+              Services in der industriellen Produktion ermöglicht.
             </p>
 
             <button
               onClick={() => navigate('/news/')}
               className="button is-link action-button"
-            >Neuigkeiten
+            >
+              Neuigkeiten
             </button>
           </div>
         </div>
