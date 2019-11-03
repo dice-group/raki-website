@@ -1,0 +1,13 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:ReneSpeck a schema:Person ;
+  schema:name "René Speck" ;
+  schema:namePrefix "" ;
+  schema:role raki:MemberULEI ;
+  schema:phone <tel:+49-341-97-33432> ;
+  schema:fax <tel:> ;
+  schema:email <mailto:speck@informatik.uni-leipzig.de> ;
+  schema:office "2.OG, Hainstraße 11, 04109 Leipzig" ;
+  schema:photo "speck.jpg" ;
+  schema:content """""" .
