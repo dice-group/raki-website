@@ -5,5 +5,5 @@ kgpartner:LeipzigUniversity a schema:Partner ;
   schema:name "Leipzig University" ;
   schema:country "DE" ;
   schema:url <https://www.uni-leipzig.de/> ;
-  schema:kind "Beneficiaries" ;
-  schema:logo "" .
+  schema:kind "Hochschulen" ;
+  schema:logo "ulei.jpg" .

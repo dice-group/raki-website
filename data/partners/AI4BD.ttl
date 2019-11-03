@@ -5,5 +5,6 @@ kgpartner:AI4BD a schema:Partner ;
   schema:name "AI4BD GmbH" ;
   schema:country "CH" ;
   schema:url <https://ai4bd.com/> ;
-  schema:kind "Beneficiaries" ;
-  schema:logo "" .
+#  schema:kind "Kleine und mittlere Unternehmen" ;
+  schema:kind "Unternehmen" ;
+  schema:logo "ai4bd.png" .
