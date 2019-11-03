@@ -8,4 +8,5 @@ raki:NadineJochimsen a schema:Person ;
   schema:phone <tel:+49-341-9732367> ;
   schema:email <mailto:jochimsen@informatik.uni-leipzig.de> ;
   schema:photo "jochimsen.jpg" ;
+  schema:office "F&E Abteilung II der URZ, Hainstraße 11 (2.OG), 04109 Leipzig";
   schema:link "http://aksw.org/NadineJochimsen.html" .

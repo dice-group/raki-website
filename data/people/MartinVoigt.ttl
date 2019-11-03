@@ -1,0 +1,13 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:MartinVoigt a schema:Person ;
+  schema:name "Martin Voigt" ;
+  schema:namePrefix "Dr." ;
+  schema:role raki:MemberAI4BD ;
+  schema:phone <tel:+49-178-40-222-58> ;
+  schema:fax <tel:> ;
+  schema:email <mailto:martin.voigt@ai4bd.com> ;
+  schema:office "AI4BD Deutschland GmbH, Gerwigstraße 6, 78120 Furtwange" ;
+  schema:photo "voigt.jpg" ;
+  schema:content """""" .

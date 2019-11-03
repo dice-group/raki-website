@@ -1,0 +1,13 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:SonjaZillner a schema:Person ;
+  schema:name "Sonja Zillner" ;
+  schema:namePrefix "Dr." ;
+  schema:role raki:MemberSiemens ;
+  schema:phone <tel:> ;
+  schema:fax <tel:> ;
+  schema:email <mailto:> ;
+  schema:office "Corporate Technology, Otto-Hahn-Ring 6, 81739 München" ;
+  schema:photo "zillner.jpg" ;
+  schema:content """""" .

@@ -8,4 +8,5 @@ raki:AxelCyrilleNgongaNgomo a schema:Person ;
   schema:phone <tel:+49-525-16-03342> ;
   schema:email <mailto:axel.ngonga@upb.de> ;
   schema:photo "ngonga.jpg" ;
+  schema:office "AG Data Science, Warburgerstraße 100, 33098 Paderborn" ;  
   schema:link "https://dice-research.org/AxelCyrilleNgongaNgomo" .
