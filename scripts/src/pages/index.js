@@ -33,17 +33,35 @@ export default function Home() {
       <section id="about" className="hero hero-row is-medium" ref={heroRef}>
         <div className="hero-body">
           <div className="container content">
-            <h1 className="title">Willkommen bei RAKI</h1>
+              <h1 className="title">RAKI - Rapide Erklärbare Künstliche Intelligenz für Industrieanlagen</h1>
+            <h3 className="title">Willkommen bei RAKI</h3>
+
             <p className="hero-text">
               RAKI kombiniert erstmalig induktives logisches Programmieren mit
               Reinforcement Learning um skalierbare nachvollziehbare Machine
               Learning-Verfahren mit „humans in the loop“ zu entwickeln.
             </p>
+
+            <p className="hero-text">
+              Im Fokus des Projekts steht die skalierbare KI-getriebene Optimierung der Konfiguration und des Betriebs von
+              Industrieanlagen sowie der notwendigen Produktionslogistik.
+
+              Verteilte Implementierungen ermöglichen die Verarbeitung großer
+              Datenmengen für die automatische Generierung von Erklärungen.
+              Die Entwicklungs- und Anwendungspartner AI4BD und Siemens planen
+              die Verwendung von wesentlichen Teilen des RAKI-Frameworks nach
+              der Produktisierung in ihre Plattformen CBR und Mindsphere.
+              Das Ergebnis von RAKI bildet die Grundlage für neuartige
+              Datenprodukte wie KI-getriebene interaktive
+              Konfigurationssoftware für Industrieanlagen, die eine skalierbare
+              Entwicklung von Smart Services in der industriellen Produktion
+              ermöglicht.
+            </p>
+
             <button
               onClick={() => navigate('/news/')}
               className="button is-link action-button"
-            >
-              Neuigkeiten
+            >Neuigkeiten
             </button>
           </div>
         </div>
@@ -56,7 +74,24 @@ export default function Home() {
       >
         <div className="hero-body">
           <div className="container content">
+            <div className="section-header">
+              <h1 className="title">Forschungsbereiche</h1>
+            </div>
 
+            <div className="research-areas-list">
+              <div className="research-area-item research-area-rep">
+                Wissens- repräsentation
+              </div>
+              <div className="research-area-item research-area-cnm">
+                Maschinelles Lernen
+              </div>
+              <div className="research-area-item research-area-op">
+                Optimierung
+              </div>
+              <div className="research-area-item research-area-expl">
+                Smart Services
+              </div>
+            </div>
           </div>
         </div>
       </section>
