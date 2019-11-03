@@ -30,7 +30,8 @@ const Footer = () => (
     <div className="horizontal-separator" />
 
     <div className="is-flex horizontally-centered funding-text">
-      Dieses Projekt wurde durch das Bundesministerium für Wirtschaft und Energie (BMWi)  finanziert. Förderkennzeichen: 01MD19012D.
+      Dieses Projekt wurde durch das Bundesministerium für Wirtschaft und
+       Energie (BMWi)  finanziert. Förderkennzeichen: 01MD19012D.
       </div>
       <div className="is-flex horizontally-centered funding-text">
       <img src='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASwBLAAD
