@@ -110,8 +110,8 @@ export default function Home() {
           <div className="container content">
             <div className="section-header">
               <h1 className="title">Tweets</h1>
-              <a className="link-more" href="https://twitter.com/raki-project">
-                RAKI folgen →
+              <a className="link-more" href="https://twitter.com/ProjektRaki">
+                ProjektRaki folgen →
               </a>
             </div>
 

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `RAKI`,
-    description: `TODO`,
+    title: `RAKI Projekt Webseite`,
+    description: `Rapide Erklärbare Künstliche Intelligenz für Industrieanlagen`,
     author: `@RAKI`,
   },
   plugins: [

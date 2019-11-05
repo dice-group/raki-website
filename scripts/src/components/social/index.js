@@ -2,9 +2,9 @@ import React from 'react';
 import { FaGithub, FaTwitter } from 'react-icons/fa';
 
 const links = [
-  { url: 'https://twitter.com/raki-project', text: 'Twitter', icon: FaTwitter },
+  { url: 'https://twitter.com/ProjektRaki', text: 'Twitter', icon: FaTwitter },
   {
-    url: 'https://github.com/raki-project',
+    url: 'https://github.com/dice-group/raki-website',
     text: 'Github',
     icon: FaGithub,
   },
