@@ -9,6 +9,6 @@ raki:MartinVoigt a schema:Person ;
   schema:fax <tel:> ;
   schema:email <mailto:martin.voigt@ai4bd.com> ;
   schema:office "AI4BD Deutschland GmbH, Gerwigstraße 6, 78120 Furtwange" ;
-  schema:photo "Martin Voigt.jpg" ;
+  schema:photo "voigt.jpg" ;
   schema:link "https://www.linkedin.com/in/martin-voigt-64b3a09/" ;  
   schema:content """""" .

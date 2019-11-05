@@ -9,6 +9,6 @@ raki:FabianKretschmann a schema:Person ;
   schema:fax <tel:> ;
   schema:email <mailto:fabian.kretschmann@ai4bd.com> ;
   schema:office "AI4BD Deutschland GmbH, Gerwigstraße 6, 78120 Furtwange" ;
-  schema:photo "Fabian Kretschmann.jpg" ;
+  schema:photo "kretschmann.jpg" ;
   schema:link "https://www.linkedin.com/in/fabiankretschmann/" ; 
   schema:content """""" .
