@@ -1,0 +1,14 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:FabianKretschmann a schema:Person ;
+  schema:name "Fabian Kretschmann" ;
+  schema:namePrefix "" ;
+  schema:role raki:MemberAI4BD ;
+  schema:phone <tel:> ;
+  schema:fax <tel:> ;
+  schema:email <mailto:fabian.kretschmann@ai4bd.com> ;
+  schema:office "AI4BD Deutschland GmbH, Gerwigstraße 6, 78120 Furtwange" ;
+  schema:photo "Fabian Kretschmann.jpg" ;
+  schema:link "https://www.linkedin.com/in/fabiankretschmann/" ; 
+  schema:content """""" .

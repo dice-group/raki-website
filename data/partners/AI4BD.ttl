@@ -2,8 +2,8 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 rakipartner:AI4BD a schema:Partner ;
-  schema:name "AI4BD GmbH" ;
-  schema:country "CH" ;
+  schema:name "AI4BD Deutschland GmbH" ;
+  schema:country "DE" ;
   schema:url <https://ai4bd.com/> ;
 #  schema:kind "Kleine und mittlere Unternehmen" ;
   schema:kind "Unternehmen" ;
