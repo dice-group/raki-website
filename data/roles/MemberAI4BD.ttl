@@ -3,4 +3,4 @@
 
 raki:MemberAI4BD a schema:Role ;
   schema:priority 2;
-	schema:name "AI4BD GmbH"@de .
+	schema:name "AI4BD Deutschland GmbH"@de .
