@@ -1,13 +1,13 @@
 import { graphql, Link, useStaticQuery } from 'gatsby';
+import Logo from 'gatsby-theme-rdfsite/src/components/header/logo';
 import React, { useState } from 'react';
-import Logo from './logo';
 
 const links = [
   { url: '/team/', text: 'Team' },
   { url: '/publications/', text: 'Publikationen' },
   { url: '/news/', text: 'Neuigkeiten' },
   { url: '/partners/', text: 'Partner' },
-  { url: '/contact/', text: 'Kontakt' }
+  { url: '/contact/', text: 'Kontakt' },
 ];
 const Header = () => {
   const [expanded, setExpanded] = useState(false);
@@ -39,7 +39,8 @@ const Header = () => {
           aria-label="menu"
           aria-expanded="false"
           data-target="navbarMenu"
-          onClick={() => setExpanded(!expanded)}>
+          onClick={() => setExpanded(!expanded)}
+        >
           <span aria-hidden="true" />
           <span aria-hidden="true" />
           <span aria-hidden="true" />
@@ -48,7 +49,8 @@ const Header = () => {
 
       <div
         id="navbar-menu"
-        className={`navbar-menu ${expanded ? 'is-active' : ''}`}>
+        className={`navbar-menu ${expanded ? 'is-active' : ''}`}
+      >
         <div className="navbar-start">
           {links.map(l => (
             <Link
@@ -56,7 +58,8 @@ const Header = () => {
               to={l.url}
               className="navbar-item"
               activeClassName="is-active"
-              partiallyActive={l.url !== '/'}>
+              partiallyActive={l.url !== '/'}
+            >
               {l.text}
             </Link>
           ))}

@@ -1,7 +1,7 @@
 import { graphql, Link, useStaticQuery } from 'gatsby';
+import Logo from 'gatsby-theme-rdfsite/src/components/footer/logo';
+import Social from 'gatsby-theme-rdfsite/src/components/social';
 import React from 'react';
-import Social from '../social';
-import Logo from './logo';
 
 const links = [
   { url: '/team/', text: 'Team' },
