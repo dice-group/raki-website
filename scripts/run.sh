@@ -1,1 +1,0 @@
-docker run --name rakiwebsiteinstance -p 80:80 -d raki-website
