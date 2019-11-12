@@ -1,0 +1,12 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:YushanLiu a schema:Person ;
+  schema:name "Yushan Liu" ;
+  schema:namePrefix "" ;
+  schema:role raki:MemberSiemens ;
+  schema:phone <tel:> ;
+  schema:fax <tel:> ;
+  schema:email <mailto:yushan.liu@siemens.com> ;
+  schema:photo "liu.jpg" ;
+  schema:content """""" .
