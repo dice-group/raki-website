@@ -1,7 +1,7 @@
 import { Link } from 'gatsby';
 import React from 'react';
 import Social from '../social';
-// import KG from '../svgs/knowgraphs.inline.svg';
+import KG from '../svgs/knowgraphs.inline.svg';
 
 const links = [
   { url: '/team/', text: 'Team' },
@@ -16,7 +16,9 @@ const links = [
 const Footer = () => (
   <div className="footer">
     <div className="columns" style={{ flex: 1 }}>
-      <div className="column is-flex" />
+    <div className="column is-flex">
+        <KG className="dice-nav-logo-footer" />
+      </div>
       <div className="column dice-footer">
         {links.map(l => (
           <Link key={l.url} to={l.url}>
