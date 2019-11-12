@@ -19,16 +19,16 @@ module.exports = {
     // and to the footer
     // leave empty to remove link completely
     social: {
-      twitter: 'https://twitter.com/DiceResearch',
-      github: 'https://github.com/dice-group',
+      twitter: 'https://twitter.com/ProjektRaki',
+      github: 'https://github.com/dice-group/raki-website',
       facebook: '',
       youtube: '',
       instagram: '',
     },
     // theme color overriders
     colors: {
-      primary: '',
-      accent: '',
+      primary: '#165B12',
+      accent: '#022100',
       brightText: '',
       darkText: '',
     },
