@@ -34,8 +34,7 @@ export default function Home() {
         <div className="hero-body">
           <div className="container content">
             <h1 className="title">
-              Rapide Erklärbare Künstliche Intelligenz für
-              Industrieanlagen
+              Rapide Erklärbare Künstliche Intelligenz für Industrieanlagen
             </h1>
             <h3 className="title">Willkommen bei RAKI</h3>
 

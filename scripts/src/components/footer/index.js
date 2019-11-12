@@ -16,7 +16,7 @@ const links = [
 const Footer = () => (
   <div className="footer">
     <div className="columns" style={{ flex: 1 }}>
-    <div className="column is-flex">
+      <div className="column is-flex">
         <KG className="dice-nav-logo-footer" />
       </div>
       <div className="column dice-footer">
