@@ -1,6 +1,6 @@
 # RAKI Website
 
-[![Actions Status](https://github.com/dice-group/raki-website/workflows/Build/badge.svg)](https://github.com/dice-group/raki-website/actions)
+[![Actions Status](https://github.com/raki-project/raki-website/workflows/Build/badge.svg)](https://github.com/raki-project/raki-website/actions)
 
 This is a repo containing RAKI website.
 

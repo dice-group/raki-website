@@ -4,7 +4,7 @@ import { FaGithub, FaTwitter } from 'react-icons/fa';
 const links = [
   { url: 'https://twitter.com/ProjektRaki', text: 'Twitter', icon: FaTwitter },
   {
-    url: 'https://github.com/dice-group/raki-website',
+    url: 'https://github.com/raki-project',
     text: 'Github',
     icon: FaGithub,
   },
