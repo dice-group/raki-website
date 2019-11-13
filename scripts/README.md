@@ -1,4 +1,4 @@
-# KnowGraphs website Gatsby template
+# RAKI website Gatsby template
 
 This is a basic website template that uses Gatsby and our custom RDF plugin to generate a static website.
 
@@ -65,6 +65,6 @@ To deploy it locally run the following commands:
 
 ```sh
 yarn build
-docker build -t kg-website .
-docker run --name kg-website-instance -p 80:80 kg-website
+docker build -t raki-website .
+docker run --name raki-website-instance -p 80:80 raki-website
 ```
