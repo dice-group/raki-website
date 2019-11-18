@@ -39,9 +39,7 @@ export default function Home() {
             <h3 className="title">Willkommen bei RAKI</h3>
 
             <p className="hero-text">
-              RAKI kombiniert erstmalig induktives logisches Programmieren mit
-              Reinforcement Learning um skalierbare nachvollziehbare Machine
-              Learning-Verfahren mit „humans in the loop“ zu entwickeln.
+              RAKI entwickelt neuartige Verfahren um skalierbare nachvollziehbare Machine Learning-Verfahren mit „humans in the loop“ zu entwickeln.
             </p>
 
             <p className="hero-text">
