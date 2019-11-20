@@ -1,5 +1,5 @@
-# RAKI website Gatsby template 
- 
+# RAKI website Gatsby template
+
 This is a basic website template that uses Gatsby and our custom RDF plugin to generate a static website.
 
 ## Developing locally
