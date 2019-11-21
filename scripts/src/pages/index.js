@@ -118,8 +118,8 @@ export default function Home() {
               sourceType="profile"
               screenName="ProjektRaki"
               noFooter
-							linkColor="#165B12"
-							noHeader
+              linkColor="#165B12"
+              noHeader
               noScrollbar
               autoHeight
               options={{ tweetLimit: 3, dnt: true }}
