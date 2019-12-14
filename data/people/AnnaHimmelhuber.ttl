@@ -1,13 +1,13 @@
 @prefix raki: <https://dice-research.org/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-raki:SonjaZillner a schema:Person ;
-  schema:name "Sonja Zillner" ;
-  schema:namePrefix "Dr." ;
+raki:AnnaHimmelhuber a schema:Person ;
+  schema:name "Anna Himmelhuber" ;
+  schema:namePrefix "" ;
   schema:role raki:MemberSiemens ;
   schema:phone <tel:> ;
   schema:fax <tel:> ;
-  schema:email <mailto:sonja.zillner@siemens.com> ;
+  schema:email <mailto:anna.himmelhuber@siemens.com> ;
   schema:office "Corporate Technology, Otto-Hahn-Ring 6, 81739 München" ;
-  schema:photo "zillner.jpg" ;
+  schema:photo "himmelhuber.jpg" ;
   schema:content """""" .

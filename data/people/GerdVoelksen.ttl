@@ -1,13 +1,13 @@
 @prefix raki: <https://dice-research.org/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-raki:SonjaZillner a schema:Person ;
-  schema:name "Sonja Zillner" ;
-  schema:namePrefix "Dr." ;
+raki:GerdVoelksen a schema:Person ;
+  schema:name "Gerd Völksen" ;
+  schema:namePrefix "" ;
   schema:role raki:MemberSiemens ;
   schema:phone <tel:> ;
   schema:fax <tel:> ;
-  schema:email <mailto:sonja.zillner@siemens.com> ;
+  schema:email <mailto:gerd.voelksen@siemens.com> ;
   schema:office "Corporate Technology, Otto-Hahn-Ring 6, 81739 München" ;
-  schema:photo "zillner.jpg" ;
+  schema:photo "voelksen.png" ;
   schema:content """""" .
