@@ -33,7 +33,8 @@ const Footer = () => (
 
     <div className="is-flex horizontally-centered funding-text">
       Dieses Projekt wurde durch das Bundesministerium für Wirtschaft und
-      Energie (BMWi) finanziert. Förderkennzeichen: 01MD19012D.
+      Energie (BMWi) finanziert mit der Projektnummer: 32100687 und dem
+			Förderkennzeichen: 01MD19012D.
     </div>
     <div className="is-flex horizontally-centered funding-text">
       <img
