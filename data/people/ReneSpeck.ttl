@@ -10,5 +10,5 @@ raki:ReneSpeck a schema:Person ;
   schema:email <mailto:speck@informatik.uni-leipzig.de> ;
   schema:office "F&E Abteilung II der URZ, Hainstraße 11 (2.OG), 04109 Leipzig";
   schema:photo "speck.jpg" ;
-  schema:link "https://dice-research.org/ReneSpeck" ;
+  schema:link "https://www.uni-leipzig.de/personenprofil/mitarbeiter/rene-speck/funktion/wiss-mitarbeiter-638fe29440/" ;
   schema:content """""" .
