@@ -61,6 +61,8 @@
     "format": "prettier --write src/**/*.{js,jsx} plugins/**/*.js",
     "start": "npm run develop",
     "serve": "gatsby serve",
+    "papers": "node ./papers-to-ttl",
+    "lint": "eslint src/ papers-to-ttl/ plugins/",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "repository": {
