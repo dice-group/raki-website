@@ -1,0 +1,17 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:Sample a schema:Publication ;
+  schema:type "Publication" ;
+  schema:title "A Holistic Natural Language Generation Framework for the Semantic Web" ;
+  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+  schema:publicationType "article" ;
+  schema:year "2019" ;
+  schema:author kg:AxelCyrilleNgongaNgomo, kg:DiegoMoussallem, kg:LorenzBuehman;
+  schema:authorName "Axel-Cyrille Ngonga Ngomo", "Diego Moussallem", "Lorenz Bühman" ;
+  schema:url <https://arxiv.org/abs/1911.01248> ;
+  schema:pdfUrl <https://arxiv.org/abs/1911.01248.pdf> ;
+  schema:source "ArXiV" ;
+  schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2a920c64111a6933af050e4a72cb4e3c7/dice-research> .
+ 
