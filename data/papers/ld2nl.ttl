@@ -2,7 +2,7 @@
 @prefix kgpapers: <https://dice-research.org/papers/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-kgpapers:Sample a schema:Publication ;
+kgpapers:ldtonl a schema:Publication ;
   schema:type "Publication" ;
   schema:title "A Holistic Natural Language Generation Framework for the Semantic Web" ;
   schema:tag "dice", "peer-reviewed", "simba", "raki" ;
