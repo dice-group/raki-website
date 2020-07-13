@@ -9,7 +9,7 @@ kgpapers:liu2020 a schema:Publication ;
   schema:publicationType "workshop" ;
   schema:year "2020" ;
   schema:author kg:YushanLiu, kg:MarcelHildebrandt, kg:MitchellJoblin, kg: MartinRingsquandl, kg:VolkerTresp;
-  schema:authorName "Yushan Liu", "Marcel Hildebrandt", "Mitchell Joblin", Martin Ringsquandl", "Volker Tresp";
+  schema:authorName "Yushan Liu", "Marcel Hildebrandt", "Mitchell Joblin", "Martin Ringsquandl", "Volker Tresp";
   schema:url <https://grlplus.github.io> ;
   schema:pdfUrl <https://grlplus.github.io/papers/60.pdf> ;
-  schema:source "github" . 
+  schema:source "github.io" . 
