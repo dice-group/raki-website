@@ -7,7 +7,7 @@ kgpapers:tentris2020 a schema:Publication ;
   schema:title "Tentris – A Tensor-Based Triple Store" ;
   schema:tag "dice", "peer-reviewed", "simba", "raki" ;
   schema:publicationType "article" ;
-  schema:year "2019" ;
+  schema:year "2020" ;
   schema:author kg:AxelCyrilleNgongaNgomo, kg:DiegoMoussallem, kg:LorenzBuehman;
   schema:authorName "Axel-Cyrille Ngonga Ngomo", "Diego Moussallem", "Lorenz Bühman" ;
   schema:url <https://arxiv.org/abs/1911.01248> ;
