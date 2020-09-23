@@ -1,0 +1,10 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:AlexanderBigerl a schema:Person ;
+  schema:name "Alexander Bigerl" ;
+  schema:namePrefix "" ;
+  schema:role raki:MemberUPB ;
+  schema:photo "bigerl.jpg" ;
+  schema:content """""" ;
+  schema:link "https://dice-research.org/AlexanderBigerl" .

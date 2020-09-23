@@ -1,0 +1,9 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:FelixConrads a schema:Person ;
+  schema:name "Felix Conrads" ;
+  schema:namePrefix "" ;
+  schema:role raki:MemberUPB ;
+  schema:photo "conrads.jpg" ;
+  schema:link "https://dice-research.org/FelixConrads" .

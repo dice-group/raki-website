@@ -1,0 +1,9 @@
+@prefix raki: <https://dice-research.org/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+raki:DiegoMoussallem a schema:Person ;
+  schema:name "Diego Moussallem" ;
+  schema:namePrefix "Dr." ;
+  schema:role raki:MemberUPB ;
+  schema:photo "moussallem.jpg" ;
+  schema:link "https://dice-research.org/DiegoMoussallem" .

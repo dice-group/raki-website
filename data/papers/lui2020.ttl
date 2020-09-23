@@ -10,6 +10,6 @@ kgpapers:liu2020 a schema:Publication ;
   schema:year "2020" ;
   schema:author kg:YushanLiu, kg:MarcelHildebrandt, kg:MitchellJoblin, kg:MartinRingsquandl, kg:VolkerTresp;
   schema:authorName "Yushan Liu", "Marcel Hildebrandt", "Mitchell Joblin", "Martin Ringsquandl", "Volker Tresp";
-  schema:url <https://grlplus.github.io> ;
+  schema:url <https://icml.cc/virtual/2020/workshop/5715> ;
   schema:pdfUrl <https://grlplus.github.io/papers/60.pdf> ;
-  schema:source "github.io" . 
+  schema:source "ICML 2020 Workshop" .
