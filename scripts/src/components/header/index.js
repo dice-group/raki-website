@@ -4,6 +4,7 @@ import KG from '../svgs/knowgraphs-logo.inline.svg';
 
 const links = [
   { url: '/', text: 'RAKI' },
+  { url: '/news/', text: 'News' },
   { url: '/team/', text: 'Team' },
   { url: '/partners/', text: 'Partner' },
   { url: '/publications/', text: 'Publikationen' },
