@@ -8,7 +8,7 @@ kgpapers:ldtonl a schema:Publication ;
   schema:tag "dice", "peer-reviewed", "simba", "raki" ;
   schema:publicationType "article" ;
   schema:year "2019" ;
-  schema:author kg:AxelCyrilleNgongaNgomo, kg:DiegoMoussallem, kg:LorenzBuehman;
+  schema:author kg:AxelCyrilleNgongaNgomo, kg:DiegoMoussallem, kg:LorenzBuehman ;
   schema:authorName "Axel-Cyrille Ngonga Ngomo", "Diego Moussallem", "Lorenz Bühman" ;
   schema:url <https://www.aclweb.org/anthology/R19-1095> ;
   schema:pdfUrl <https://www.aclweb.org/anthology/R19-1095.pdf> ;

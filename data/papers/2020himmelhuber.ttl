@@ -1,0 +1,15 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:hh2020 a schema:Publication ;
+  schema:type "Publication" ;
+  schema:title "Ontology-Based Skill Description Learning for Flexible Production Systems" ;
+  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+  schema:publicationType "article" ;
+  schema:year "2020" ;
+  schema:author kg:AnnaHimmelhuberl, kg:SGrimm, kg:TRunkler, kg:SonjaZillner ;
+  schema:authorName "Anna Himmelhuber", "Stephan Grimm", "Thomas Runkler", "Sonja Zillner" ;
+  schema:pdfUrl <https://ieeexplore.ieee.org/iel7/9210104/9211869/09211906.pdf> ;
+  schema:source "25th IEEE International Conference on Emerging Technologies and Factory Automation" ;
+  schema:bibsonomyId <https://www.bibsonomy.org/bibtex/29ed999996990dd3230c62807d34d1521/dblp> .

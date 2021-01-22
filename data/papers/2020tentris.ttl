@@ -8,7 +8,7 @@ kgpapers:tentris2020 a schema:Publication ;
   schema:tag "dice", "peer-reviewed", "simba", "raki" ;
   schema:publicationType "article" ;
   schema:year "2020" ;
-  schema:author kg:AxelCyrilleNgongaNgomo, kg:AlexanderBigerl, kg:FelixConrads;
+  schema:author kg:AxelCyrilleNgongaNgomo, kg:AlexanderBigerl, kg:FelixConrads ;
   schema:authorName "Alexander Bigerl", "Felix Conrads", "Charlotte Behning", "Mohamed Sherif", "Muhammad Saleem", "Axel-Cyrille Ngonga Ngomo" ;
   schema:url <https://arxiv.org/abs/1911.01248> ;
   schema:pdfUrl <https://papers.dice-research.org/2020/ISWC_Tentris/iswc2020_tentris_public.pdf> ;
