@@ -7,7 +7,7 @@ raki:ReneSpeck a schema:Person ;
   schema:role raki:MemberULEI ;
   schema:phone <tel:+49-341-97-33432> ;
   schema:fax <tel:> ;
-  schema:email <mailto:speck@informatik.uni-leipzig.de> ;
+  schema:email <mailto:rene.speck@uni-leipzig.de> ;
   schema:office "Universitätsrechenzentrum (F&E Abteilung II), Augustusplatz 10, 04109 Leipzig";
   schema:photo "speck.jpg" ;
   schema:link "https://www.uni-leipzig.de/personenprofil/mitarbeiter/rene-speck/" ;
