@@ -12,4 +12,4 @@ kgpapers:twig a schema:Publication ;
   schema:authorName "René Speck", "Diego Moussallem", "Axel-Cyrille Ngonga Ngomo" ;
   schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_TWIG/TWIG_public.pdf> ;
   schema:source "The 14th IEEE International Conference on Semantic Computing" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2a920c64111a6933af050e4a72cb4e3c7/dice-research> .
+  schema:bibsonomyId <https://www.bibsonomy.org/bibtex/241209bbb94a1b16720f486de67b18f14/dice-research> .
