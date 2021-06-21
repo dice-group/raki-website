@@ -4,11 +4,11 @@
 raki:FabianKretschmann a schema:Person ;
   schema:name "Fabian Kretschmann" ;
   schema:namePrefix "" ;
-  schema:role raki:MemberAI4BD ;
+  schema:role raki:MemberElevait ;
   schema:phone <tel:> ;
   schema:fax <tel:> ;
-  schema:email <mailto:fabian.kretschmann@ai4bd.com> ;
-  schema:office "AI4BD Deutschland GmbH, Gerwigstraße 6, 78120 Furtwange" ;
+  schema:email <mailto:fabian.kretschmann@elevait.de> ;
+  schema:office " " ;
   schema:photo "kretschmann.jpg" ;
-  schema:link "https://www.linkedin.com/in/fabiankretschmann/" ; 
+  schema:link "https://www.linkedin.com/in/fabiankretschmann/" ;
   schema:content """""" .

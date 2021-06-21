@@ -1,6 +1,6 @@
 @prefix raki: <https://dice-research.org/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-raki:MemberAI4BD a schema:Role ;
+raki:MemberElevait a schema:Role ;
   schema:priority 2;
-	schema:name "AI4BD Deutschland GmbH"@de .
+	schema:name "elevait GmbH & Co KG"@de .

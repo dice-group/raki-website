@@ -4,11 +4,11 @@
 raki:MartinVoigt a schema:Person ;
   schema:name "Martin Voigt" ;
   schema:namePrefix "Dr." ;
-  schema:role raki:MemberAI4BD ;
+  schema:role raki:MemberElevait ;
   schema:phone <tel:+49-178-40-222-58> ;
   schema:fax <tel:> ;
-  schema:email <mailto:martin.voigt@ai4bd.com> ;
-  schema:office "AI4BD Deutschland GmbH, Gerwigstraße 6, 78120 Furtwange" ;
+  schema:email <mailto:martin.voigt@elevait.de> ;
+  schema:office " " ;
   schema:photo "voigt.jpg" ;
-  schema:link "https://www.linkedin.com/in/martin-voigt-64b3a09/" ;  
+  schema:link "https://www.linkedin.com/in/martin-voigt-64b3a09/" ;
   schema:content """""" .

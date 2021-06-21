@@ -1,10 +1,10 @@
 @prefix rakipartner: <https://dice-research.org/partner/> .
 @prefix schema: <https://schema.dice-research.org/> .
 
-rakipartner:AI4BD a schema:Partner ;
-  schema:name "AI4BD Deutschland GmbH" ;
+rakipartner:Elevait a schema:Partner ;
+  schema:name "elevait GmbH & Co KG" ;
   schema:country "DE" ;
-  schema:url <https://ai4bd.com/> ;
+  schema:url <https://elevait.de> ;
 #  schema:kind "Kleine und mittlere Unternehmen" ;
   schema:kind "Unternehmen" ;
-  schema:logo "ai4bd.png" .
+  schema:logo "elevait.png" .
