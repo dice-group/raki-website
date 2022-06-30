@@ -1,0 +1,15 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:lauren a schema:Publication ;
+  schema:type "Publication" ;
+  schema:title "LAUREN - Knowledge Graph Summarization for Question Answering" ;
+  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+  schema:publicationType "article" ;
+  schema:year "2021" ;
+  schema:author kg:AxelCyrilleNgongaNgomo ;
+  schema:authorName "Rricha Jalota", "Daniel Vollmers", "Diego Moussallem", "Ngonga Ngomo, Axel-Cyrille" ;
+  schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_LAUREN/LAUREN_public.pdf> ;
+  schema:source "Proceedings of the 15th IEEE International Conference on Semantic Computing" ;
+  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

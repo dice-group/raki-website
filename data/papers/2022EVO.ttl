@@ -1,0 +1,15 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:evo a schema:Publication ;
+  schema:type "Publication" ;
+  schema:title "EvoLearner: Learning Description Logics with Evolutionary Algorithms" ;
+  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+  schema:publicationType "article" ;
+  schema:year "2022" ;
+  schema:author kg:AbdullahFathiAhme, kg:MohamedAhmedSherif , kg:DiegoMoussallem, kg:AxelCyrilleNgongaNgomo ;
+  schema:authorName "Heindorf, Stefan", "Blübaum, Lukas", "Düsterhus, Nick",                  "Werner, Till",                  "Golani Nandkumar, Varun",                 "Demir, Caglar",                  "Ngonga Ngomo, Axel-Cyrille" ;
+  schema:pdfUrl <https://arxiv.org/abs/2111.04879> ;
+  schema:source "WWW" ;
+  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

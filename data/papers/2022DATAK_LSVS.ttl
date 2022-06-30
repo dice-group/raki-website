@@ -1,0 +1,15 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:lsvs a schema:Publication ;
+  schema:type "Publication" ;
+  schema:title "Multilingual Verbalization and Summarization for Explainable Link Discovery" ;
+  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+  schema:publicationType "article" ;
+  schema:year "2022" ;
+  schema:author kg:AbdullahFathiAhme, kg:MohamedAhmedSherif , kg:DiegoMoussallem, kg:AxelCyrilleNgongaNgomo ;
+  schema:authorName "Abdullah Fathi Ahmed", "Mohamed Ahmed Sherif", "Diego Moussallem", "Axel-Cyrille Ngonga Ngomo" ;
+  schema:pdfUrl <https://papers.dice-research.org/2021/DATAK_LSVS_journal/public.pdf> ;
+  schema:source "Data & Knowledge Engineering" ;
+  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
