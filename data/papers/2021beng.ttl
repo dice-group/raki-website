@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:beng a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "A General Benchmarking Framework for Text Generation" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2020" ;
-  schema:author kg:DiegoMoussallem,  kg:PKaur,  kg:ThiagoCastroFerreira,  kg:CLee,  kg:AnastasiaShimorina,  kg:FelixConrads,  kg:MichaelRoeder,  kg:ReneSpeck,  kg:ClaireGardent,  kg:SMille,  kg:NIlinykh, kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Diego Moussallem", "P. Kaur", "Thiago Castro Ferreira", "C. Lee", "Anastasia Shimorina", "Felix Conrads", "Michael Röder", "René Speck", "Claire Gardent", "S. Mille", "N. Ilinykh", "Axel-Cyrille Ngonga Ngomo" ;
-  schema:pdfUrl <https://webnlg-challenge.loria.fr/files/2020.webnlg-papers.3.pdf> ;
-  schema:source "WebNLG ChallengesWebNLG Workshop" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "A General Benchmarking Framework for Text Generation" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2020" ;
+ schema:author kg:DiegoMoussallem, kg:PKaur, kg:ThiagoCastroFerreira, kg:CLee, kg:AnastasiaShimorina, kg:FelixConrads, kg:MichaelRoeder, kg:ReneSpeck, kg:ClaireGardent, kg:SMille, kg:NIlinykh, kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Diego Moussallem", "P. Kaur", "Thiago Castro Ferreira", "C. Lee", "Anastasia Shimorina", "Felix Conrads", "Michael Röder", "René Speck", "Claire Gardent", "S. Mille", "N. Ilinykh", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://webnlg-challenge.loria.fr/files/2020.webnlg-papers.3.pdf> ;
+ schema:source "WebNLG ChallengesWebNLG Workshop" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

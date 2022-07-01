@@ -3,12 +3,12 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:liu2021 a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2021" ;
-  schema:author kg:YushanLiu, kg:MarcelHildebrandt, kg:MitchellJoblin, kg:MartinRingsquandl, kg:RimeRaissouni, kg:VolkerTresp ;
-  schema:authorName "Yushan Liu", "Marcel Hildebrandt", "Mitchell Joblin", "Martin Ringsquandl", "Rime Raissouni", "Volker Tresp";
-  schema:pdfUrl <https://openreview.net/pdf?id=ncLDBiIv2n> ;
-  schema:source "Eighteenth Extended Semantic Web Conference - Research Track" .
+ schema:type "Publication" ;
+ schema:title "Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2021" ;
+ schema:author kg:YushanLiu, kg:MarcelHildebrandt, kg:MitchellJoblin, kg:MartinRingsquandl, kg:RimeRaissouni, kg:VolkerTresp ;
+ schema:authorName "Yushan Liu", "Marcel Hildebrandt", "Mitchell Joblin", "Martin Ringsquandl", "Rime Raissouni", "Volker Tresp";
+ schema:pdfUrl <https://openreview.net/pdf?id=ncLDBiIv2n> ;
+ schema:source "Eighteenth Extended Semantic Web Conference - Research Track" .

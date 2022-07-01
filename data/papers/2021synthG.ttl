@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:synthg a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "SynthG: Mimicking RDF Graphs Using Tensor Factorization" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2021" ;
-  schema:author kg:FelixConrads, kg:MichaelRoeder, kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Abdelmoneim Amer Desouki", "Felix Conrads", "Michael Röder", "Axel-Cyrille Ngonga Ngomo" ;
-  schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_SynthG/ICSC_SynthG_public.pdf> ;
-  schema:source "The 14th IEEE International Conference on Semantic Computing" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "SynthG: Mimicking RDF Graphs Using Tensor Factorization" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2021" ;
+ schema:author kg:FelixConrads, kg:MichaelRoeder, kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Abdelmoneim Amer Desouki", "Felix Conrads", "Michael Röder", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_SynthG/ICSC_SynthG_public.pdf> ;
+ schema:source "The 14th IEEE International Conference on Semantic Computing" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:kronecker a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Kronecker Decomposition for Knowledge Graph Embeddings" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2022" ;
-  schema:author kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName   "Demir, Caglar", "Lienen, Julian", "Ngomo, Ngonga Axel-Cyrille"   ;
-  schema:pdfUrl <https://papers.dice-research.org/2022/HT_Kronecker/public.pdf> ;
-  schema:source "HT" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "Kronecker Decomposition for Knowledge Graph Embeddings" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Caglar Demir", "Julian Lienen", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2022/HT_Kronecker/public.pdf> ;
+ schema:source "HT" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

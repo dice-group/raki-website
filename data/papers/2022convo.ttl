@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:convo a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Convolutional Hypercomplex Embeddings for Link Prediction" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2021" ;
-  schema:author kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Caglar Demir", "Diego Moussallem", "Stefan Heindorf", "Axel-Cyrille Ngonga Ngomo" ;
-  schema:pdfUrl <https://papers.dice-research.org/2021/ACML2021_HyperConv/public.pdf> ;
-  schema:source "Asian Conference on Machine Learning" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "Convolutional Hypercomplex Embeddings for Link Prediction" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2021" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Caglar Demir", "Diego Moussallem", "Stefan Heindorf", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2021/ACML2021_HyperConv/public.pdf> ;
+ schema:source "Asian Conference on Machine Learning" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

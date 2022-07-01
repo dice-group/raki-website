@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:liu2020 a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "workshop" ;
-  schema:year "2020" ;
-  schema:author kg:YushanLiu, kg:MarcelHildebrandt, kg:MitchellJoblin, kg:MartinRingsquandl, kg:VolkerTresp ;
-  schema:authorName "Yushan Liu", "Marcel Hildebrandt", "Mitchell Joblin", "Martin Ringsquandl", "Volker Tresp";
-  schema:url <https://icml.cc/virtual/2020/workshop/5715> ;
-  schema:pdfUrl <https://grlplus.github.io/papers/60.pdf> ;
-  schema:source "ICML 2020 Workshop" .
+ schema:type "Publication" ;
+ schema:title "Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "workshop" ;
+ schema:year "2020" ;
+ schema:author kg:YushanLiu, kg:MarcelHildebrandt, kg:MitchellJoblin, kg:MartinRingsquandl, kg:VolkerTresp ;
+ schema:authorName "Yushan Liu", "Marcel Hildebrandt", "Mitchell Joblin", "Martin Ringsquandl", "Volker Tresp";
+ schema:url <https://icml.cc/virtual/2020/workshop/5715> ;
+ schema:pdfUrl <https://grlplus.github.io/papers/60.pdf> ;
+ schema:source "ICML 2020 Workshop" .

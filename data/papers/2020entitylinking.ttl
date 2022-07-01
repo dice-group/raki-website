@@ -3,14 +3,14 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:el2020 a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Towards holistic Entity Linking: Survey and directions" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2020" ;
-  schema:author kg:ReneSpeck, kg:DiegoMoussallem ;
-  schema:authorName "Italo L.Oliveir", "Renato Fileto", "René Speck", "Luís P.F. Garciac","Diego Moussallem"," Jens Lehmann" ;
-  schema:url <https://www.sciencedirect.com/science/article/abs/pii/S0306437920300958> ;
-  schema:pdfUrl <https://www.sciencedirect.com/science/article/abs/pii/S0306437920300958> ;
-  schema:source "Information Systems" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2633282a267cc23ec319137f2e8a272f8/dice-research> .
+ schema:type "Publication" ;
+ schema:title "Towards holistic Entity Linking: Survey and directions" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2020" ;
+ schema:author kg:ReneSpeck, kg:DiegoMoussallem ;
+ schema:authorName "Italo L.Oliveir", "Renato Fileto", "René Speck", "Luís P.F. Garciac","Diego Moussallem"," Jens Lehmann" ;
+ schema:url <https://www.sciencedirect.com/science/article/abs/pii/S0306437920300958> ;
+ schema:pdfUrl <https://www.sciencedirect.com/science/article/abs/pii/S0306437920300958> ;
+ schema:source "Information Systems" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2633282a267cc23ec319137f2e8a272f8/dice-research> .

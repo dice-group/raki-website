@@ -3,14 +3,14 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:ldtonl a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "A Holistic Natural Language Generation Framework for the Semantic Web" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2019" ;
-  schema:author kg:AxelCyrilleNgongaNgomo, kg:DiegoMoussallem, kg:LorenzBuehman ;
-  schema:authorName "Axel-Cyrille Ngonga Ngomo", "Diego Moussallem", "Lorenz Bühman" ;
-  schema:url <https://www.aclweb.org/anthology/R19-1095> ;
-  schema:pdfUrl <https://www.aclweb.org/anthology/R19-1095.pdf> ;
-  schema:source "RANLP 2019" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2a920c64111a6933af050e4a72cb4e3c7/dice-research> .
+ schema:type "Publication" ;
+ schema:title "A Holistic Natural Language Generation Framework for the Semantic Web" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2019" ;
+ schema:author kg:AxelCyrilleNgongaNgomo, kg:DiegoMoussallem, kg:LorenzBuehman ;
+ schema:authorName "Axel-Cyrille Ngonga Ngomo", "Diego Moussallem", "Lorenz Bühman" ;
+ schema:url <https://www.aclweb.org/anthology/R19-1095> ;
+ schema:pdfUrl <https://www.aclweb.org/anthology/R19-1095.pdf> ;
+ schema:source "RANLP 2019" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2a920c64111a6933af050e4a72cb4e3c7/dice-research> .

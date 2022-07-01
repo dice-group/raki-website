@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:learning a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Learning Concept Lengths Accelerates Concept Learning in ALC" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2022" ;
-  schema:author kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Kouagou, N'Dah Jean", "Heindorf, Stefan", "Demir, Caglar", "Ngomo, Ngonga Axel-Cyrille"   ;
-  schema:pdfUrl <http://arxiv.org/abs/2107.04911> ;
-  schema:source "ESWC" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "Learning Concept Lengths Accelerates Concept Learning in ALC" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "N'Dah Jean Kouagou", "Stefan Heindorf", "Caglar Demir", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <http://arxiv.org/abs/2107.04911> ;
+ schema:source "ESWC" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

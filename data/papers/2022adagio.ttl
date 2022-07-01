@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:adagio a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "ADAGIO - Automated Data Augmentation of Knowledge Graphs Using Multi-expression Learning" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2022" ;
-  schema:author kg:KevinDressler, kg:MohamedAhmedSherif , kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Kevin Dreßler", "Mohamed Ahmed Sherif", "Axel-Cyrille Ngonga Ngomo" ;
-  schema:pdfUrl <https://papers.dice-research.org/2022/HT_ADAGIO/public.pdf> ;
-  schema:source "Proceedings of the 33rd ACM Conference on Hypertext and Hypermedia" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "ADAGIO - Automated Data Augmentation of Knowledge Graphs Using Multi-expression Learning" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:KevinDressler, kg:MohamedAhmedSherif , kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Kevin Dreßler", "Mohamed Ahmed Sherif", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2022/HT_ADAGIO/public.pdf> ;
+ schema:source "Proceedings of the 33rd ACM Conference on Hypertext and Hypermedia" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

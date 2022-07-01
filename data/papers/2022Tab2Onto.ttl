@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:tab2Onto a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Tab2Onto: Unsupervised Semantification with Knowledge Graph Embeddings" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2022" ;
-  schema:author kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Zahera, Hamada M.", "Heindorf, Stefan" , "Balke, Stefan" , "Haupt, Jonas" , "Voigt, Martin" , "Walter, Carolin" , "Witter, Fabian" , "Ngonga Ngomo, Axel-Cyrille" ;
-  schema:pdfUrl <https://papers.dice-research.org/2022/ESWC_Tab2Onto/Tab2Onto_public.pdf> ;
-  schema:source "ESWC" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "Tab2Onto: Unsupervised Semantification with Knowledge Graph Embeddings" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Hamada M. Zahera", "Stefan Heindorf" , "Stefan Balke" , "Jonas Haupt" , "Martin Voigt" , "Carolin Walter" , "Fabian Witter" , "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2022/ESWC_Tab2Onto/Tab2Onto_public.pdf> ;
+ schema:source "ESWC" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

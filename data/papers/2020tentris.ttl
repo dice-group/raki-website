@@ -3,14 +3,14 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:tentris2020 a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "Tentris – A Tensor-Based Triple Store" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2020" ;
-  schema:author kg:AxelCyrilleNgongaNgomo, kg:AlexanderBigerl, kg:FelixConrads ;
-  schema:authorName "Alexander Bigerl", "Felix Conrads", "Charlotte Behning", "Mohamed Sherif", "Muhammad Saleem", "Axel-Cyrille Ngonga Ngomo" ;
-  schema:url <https://arxiv.org/abs/1911.01248> ;
-  schema:pdfUrl <https://papers.dice-research.org/2020/ISWC_Tentris/iswc2020_tentris_public.pdf> ;
-  schema:source "The Semantic Web - ISWC 2020" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2ddbeccf859ed8ba4f8d4a193bfa181ea/dice-research> .
+ schema:type "Publication" ;
+ schema:title "Tentris – A Tensor-Based Triple Store" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2020" ;
+ schema:author kg:AxelCyrilleNgongaNgomo, kg:AlexanderBigerl, kg:FelixConrads ;
+ schema:authorName "Alexander Bigerl", "Felix Conrads", "Charlotte Behning", "Mohamed Ahmed Sherif", "Muhammad Saleem", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:url <https://arxiv.org/abs/1911.01248> ;
+ schema:pdfUrl <https://papers.dice-research.org/2020/ISWC_Tentris/iswc2020_tentris_public.pdf> ;
+ schema:source "The Semantic Web - ISWC 2020" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2ddbeccf859ed8ba4f8d4a193bfa181ea/dice-research> .

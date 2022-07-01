@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:shallom a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "A shallow neural model for relation prediction" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2021" ;
-  schema:author kg:CaglarDemir, kg:DiegoMoussallem, kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Caglar Demir", "Diego Moussallem", "Axel-Cyrille Ngonga Ngomo" ;
-  schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_Shallom/public.pdf> ;
-  schema:source "The 14th IEEE International Conference on Semantic Computing" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "A shallow neural model for relation prediction" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2021" ;
+ schema:author kg:CaglarDemir, kg:DiegoMoussallem, kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Caglar Demir", "Diego Moussallem", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_Shallom/public.pdf> ;
+ schema:source "The 14th IEEE International Conference on Semantic Computing" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .

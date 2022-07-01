@@ -3,13 +3,13 @@
 @prefix schema: <https://schema.dice-research.org/> .
 
 kgpapers:orca a schema:Publication ;
-  schema:type "Publication" ;
-  schema:title "ORCA -- a Benchmark for Data Web Crawlers" ;
-  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
-  schema:publicationType "article" ;
-  schema:year "2021" ;
-  schema:author kg:MichaelRoeder, kg:GeraldodeSouzaJr, kg:DenisKuchelev, kg:AbdelmoneimAmerDesouki, kg:AxelCyrilleNgongaNgomo ;
-  schema:authorName "Michael Röder", "Geraldo de Souza Jr.", "Denis Kuchelev", "Abdelmoneim Amer Desouki", "Axel-Cyrille Ngonga Ngomo" ;
-  schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_ORCA/ORCA_public.pdf> ;
-  schema:source "The 14th IEEE International Conference on Semantic Computing" ;
-  schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+ schema:type "Publication" ;
+ schema:title "ORCA -- a Benchmark for Data Web Crawlers" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2021" ;
+ schema:author kg:MichaelRoeder, kg:GeraldodeSouzaJr, kg:DenisKuchelev, kg:AbdelmoneimAmerDesouki, kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Michael Röder", "Geraldo de Souza Jr.", "Denis Kuchelev", "Abdelmoneim Amer Desouki", "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2021/ICSC2021_ORCA/ORCA_public.pdf> ;
+ schema:source "The 14th IEEE International Conference on Semantic Computing" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
