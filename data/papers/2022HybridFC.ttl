@@ -1,0 +1,15 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:HybridFC a schema:Publication ;
+ schema:type "Publication" ;
+ schema:title "HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Umair Qudus", "Michael Röder", "Muhammad Saleem", "Axel-Cyrille Ngonga Ngomo";
+ schema:pdfUrl <https://papers.dice-research.org/2022/ISWC_HybridFC/HybridFC-A_Hybrid_Fact-Checking_Approach_for_Knowledge_Graphs_slides_public.pdf> ;
+ schema:source "ISWC" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/bibtex/3b33c00a7e3d3d11e93ec0c9e20f6a58> .

@@ -1,0 +1,20 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:Hashing a schema:Publication ;
+ schema:type "Publication" ;
+ schema:title "Hashing the Hypertrie: Space- and Time-Efficient Indexing for SPARQL in Tensors" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Alexander Bigerl", "Lixi Conrads", "Charlotte Behning", "Muhammad Saleem", "Axel-Cyrille Ngonga Ngomo";
+ schema:pdfUrl <https://papers.dice-research.org/2022/ISWC_Hashing_the_Hypertrie/iswc2022_hashing_the_hypertrie_public.pdf> ;
+ schema:source "ISWC" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+
+
+
+
+ 

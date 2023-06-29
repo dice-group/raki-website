@@ -1,0 +1,16 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:REBench a schema:Publication ;
+ schema:type "Publication" ;
+ schema:title "REBench: Microbenchmarking Framework for Relation Extraction Systems" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Manzoor Ali", "Muhammad Saleem" , "Axel-Cyrille Ngonga Ngomo";
+ schema:pdfUrl <https://papers.dice-research.org/2022/ISWC_REBench/public.pdf> ;
+ schema:source "ISWC" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+

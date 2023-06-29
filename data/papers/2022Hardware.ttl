@@ -1,0 +1,15 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:Hardware a schema:Publication ;
+ schema:type "Publication" ;
+ schema:title "Hardware-agnostic computation for large-scale knowledge graph embeddings" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Caglar Demir",  "Axel-Cyrille Ngonga Ngomo" ;
+ schema:pdfUrl <https://papers.dice-research.org/2022/SIMPAC_DiceEmbeddings/public.pdf> ;
+ schema:source "Software Impacts" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/bibtex/20e699a54a919ad086a80c62070350f72/dice-research> .

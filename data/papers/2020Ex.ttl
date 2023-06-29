@@ -1,0 +1,16 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:Ex a schema:Publication ;
+ schema:type "Publication" ;
+ schema:title "Generating Explanations in Natural Language from Knowledge Graphs" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2020" ;
+ schema:author kg:DiegoMoussallem, kg:ReneSpeck, kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Diego Moussallem", "René Speck" , "Axel-Cyrille Ngonga Ngomo" ;
+ schema:url <https://arxiv.org/abs/1911.01248> ;
+ schema:pdfUrl <https://ebooks.iospress.nl/volumearticle/54086> ;
+ schema:source "Knowledge Graphs for eXplainable Artificial Intelligence: Foundations, Applications and Challenges" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/bibtex/2654993a81f0e8d2adfee589cc6508c50/dice-research> .

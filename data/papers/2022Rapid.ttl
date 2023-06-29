@@ -1,0 +1,18 @@
+@prefix kg: <https://dice-research.org/> .
+@prefix kgpapers: <https://dice-research.org/papers/> .
+@prefix schema: <https://schema.dice-research.org/> .
+
+kgpapers:Rapid a schema:Publication ;
+ schema:type "Publication" ;
+ schema:title "Rapid Explainability for Skill Description Learning" ;
+ schema:tag "dice", "peer-reviewed", "simba", "raki" ;
+ schema:publicationType "article" ;
+ schema:year "2022" ;
+ schema:author kg:AnnaHimmelhuber, kg:AxelCyrilleNgongaNgomo ;
+ schema:authorName "Caglar Demir", "Anna Himmelhuber", "Yushan Liu2", "Alexander Bigerl", "Diego Moussallem", "Axel-Cyrille Ngonga Ngomo";
+ schema:pdfUrl <https://ceur-ws.org/Vol-3254/paper403.pdf> ;
+ schema:source "ISWC" ;
+ schema:bibsonomyId <https://www.bibsonomy.org/user/dice-research> .
+
+
+
