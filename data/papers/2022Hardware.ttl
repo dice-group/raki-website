@@ -6,7 +6,7 @@ kgpapers:Hardware a schema:Publication ;
  schema:type "Publication" ;
  schema:title "Hardware-agnostic computation for large-scale knowledge graph embeddings" ;
  schema:tag "dice", "peer-reviewed", "simba", "raki" ;
- schema:publicationType "article" ;
+ schema:publicationType "journal" ;
  schema:year "2022" ;
  schema:author kg:AxelCyrilleNgongaNgomo ;
  schema:authorName "Caglar Demir",  "Axel-Cyrille Ngonga Ngomo" ;

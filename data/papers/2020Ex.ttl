@@ -5,8 +5,8 @@
 kgpapers:Ex a schema:Publication ;
  schema:type "Publication" ;
  schema:title "Generating Explanations in Natural Language from Knowledge Graphs" ;
- schema:tag "dice", "peer-reviewed", "simba", "raki" ;
- schema:publicationType "article" ;
+ schema:tag "dice", "simba", "raki" ;
+ schema:publicationType "journal" ;
  schema:year "2020" ;
  schema:author kg:DiegoMoussallem, kg:ReneSpeck, kg:AxelCyrilleNgongaNgomo ;
  schema:authorName "Diego Moussallem", "René Speck" , "Axel-Cyrille Ngonga Ngomo" ;
